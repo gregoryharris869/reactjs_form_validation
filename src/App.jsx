@@ -2,11 +2,9 @@ import Register from "./Register";
 
 function App() {
   return (
-    <>
-      <main className="App">
-        <Register />
-      </main>
-    </>
+    <main className="App">
+      <Register />
+    </main>
   );
 }
 
